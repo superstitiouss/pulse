@@ -1,0 +1,9 @@
+@import 'base/variables';
+@import 'blocks/promo';
+* {
+    font-family: 'Roboto', sans-serif;
+}
+.container {
+    max-width: 950px;
+    margin: 0 auto;
+}
